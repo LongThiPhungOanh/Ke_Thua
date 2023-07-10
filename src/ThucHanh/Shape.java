@@ -1,7 +1,7 @@
 package ThucHanh;
 
 public class Shape {
-    private String color = "green";
+    public String color = "green";
     private boolean filled = true;
     public Shape() {
     }
